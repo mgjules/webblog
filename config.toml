@@ -1,6 +1,6 @@
 baseurl = "https://festive-bose-52f0eb.netlify.com/"
 theme = "cocoa-eh"
-builddrafts = true
+builddrafts = false
 canonifyurls = true
 contentdir = "content"
 languageCode = "en-US"
