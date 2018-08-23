@@ -40,7 +40,7 @@ usesmallsummarycard = true
 posts_navigation = true
 # issoHost = "comments.domain.tld:1234"
 # githubRepo = "githubUsername/repositoryName/tree/master"
-small_banner_logo = false
+small_banner_logo = true
 
 [params.colors]
 identifier = "#527fc1f"
